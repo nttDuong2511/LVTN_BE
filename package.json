@@ -1,0 +1,27 @@
+{
+  "name": "webmeal_be",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nttDuong2511/nodejs_Webmeal_BE.git"
+  },
+  "keywords": [
+    "nodejs",
+    "webmeal"
+  ],
+  "author": "TD",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nttDuong2511/nodejs_Webmeal_BE/issues"
+  },
+  "homepage": "https://github.com/nttDuong2511/nodejs_Webmeal_BE#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
