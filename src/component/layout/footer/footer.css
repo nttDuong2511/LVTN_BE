@@ -1,0 +1,96 @@
+footer .content-container{
+    padding: 60px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+.Footer{
+    background-color: #143b36;
+    margin-top: 1px;
+}
+
+footer a:hover{
+    text-decoration: underline ;
+}
+
+
+
+footer .social-icons{
+    display: flex;
+    gap: 16px;
+    margin: 25px 0;
+}
+a.logo-fb{
+    color:blue;
+} 
+a.logo-ins{
+    color:darksalmon;
+}
+
+a.logo-yt{
+    color:red;
+}
+footer .copyright{
+    font-family: 'Alegreya', serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+
+}
+footer h3{
+    color: #d69c52;
+    font-family: 'Alegreya', serif;
+    font-weight: 700;
+    font-size: 18px;
+    margin: 0;
+}
+
+.footer-link{
+    margin-right: 20px;
+}
+
+.footer-link ul{
+    list-style :none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-link a{
+    color:#fff;
+    margin-top: 10px;
+}
+
+.footer-link ul li{
+    font-family: 'Alegreya', serif;
+    font-weight: 400;
+    font-size: 16px;
+    margin: 8px 16px;
+
+}
+
+
+
+.logo-footer img{
+    width: 150px;
+    height: 50px;
+    margin-right: 50px;
+}
+
+.footer-title{
+    width: 500px;
+    margin: 10px 20px;
+
+
+}
+
+.footer-title span{
+    color: #fff;
+    font-family: 'Alegreya', serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.footer-right{
+    margin-top: 63px;
+    display:flex;
+}

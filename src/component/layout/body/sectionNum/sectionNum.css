@@ -1,0 +1,39 @@
+.section_num{
+    display:flex;
+    background-color: #143b36;
+
+}
+
+.row{
+    display:flex;
+}
+
+.item {
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center; 
+    padding: 20px 110px 20px 110px ;
+    border-right: 1px solid #797979;
+}
+
+.item1{
+    position: relative;
+    width: 100%;
+    display: flex;
+    align-items: center; 
+    padding: 20px 110px 20px 110px ;
+}
+
+
+.num{
+    display:block;
+    text-align: center;
+}
+
+.content{
+    color:#fff;
+}
+
+
+

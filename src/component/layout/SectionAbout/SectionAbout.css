@@ -1,0 +1,43 @@
+.about{
+    background-color: #143b36;
+    line-height: 1.6;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: flex;
+    /* background: linear-gradient(to top, #143b36, #33534f);10302c  */
+}
+
+.cot1{
+    width: 50%;
+    margin-left:50px;
+}
+
+.cot1 span{
+    display:block;
+    margin-top: 25px;
+}
+
+.title-small{
+    font-weight: 700;
+    font-size: 1.5rem;
+    color: #D69C52;
+    
+}
+
+.title-contain{
+    color:#fff;
+}
+
+.cot2{
+    width: 50%;
+    margin-left: 100px;
+}
+.cot2 img{
+    height:300px;
+    width: 500px;
+}
+
+
+.about ::after, ::before{
+    box-sizing: border-box;
+}

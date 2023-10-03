@@ -1,0 +1,30 @@
+
+
+.bodyBannerPic{
+    background-color: #143b36;
+    display:flex;
+    flex-direction: row-reverse;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bodyBanner img{
+    height: 300px;
+    /* vertical-align: middle; */
+    border-style: none;
+    max-width: 100%;
+
+}
+.bodyBanner-pic{
+    padding: 60px;
+
+}
+
+
+.bodyBanner-pic1{
+    padding: 40px;
+    margin-right: 80px;
+}
+

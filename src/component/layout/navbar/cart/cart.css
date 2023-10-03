@@ -1,0 +1,17 @@
+.Cart {
+    position: relative;
+}
+  
+.cartclick {
+    cursor: pointer;
+}
+  
+.cart-content {
+    position: absolute;
+    top: 100%;
+    left: -150px;
+    z-index: 1;
+}
+
+
+

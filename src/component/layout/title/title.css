@@ -1,0 +1,47 @@
+.center-banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 100;
+  }
+  
+.shopname {
+    text-align: center;
+    position: absolute; /* Định vị tuyệt đối */
+    top: 50%; /* Căn giữa theo chiều dọc */
+    left: 50%; /* Căn giữa theo chiều ngang */
+    transform: translate(-50%, -50%); /* Dịch chuyển vị trí */
+    color:#fff;
+
+}
+
+.shopname span{
+    display:block;
+    font-family: 'Roboto', sans-serif;
+}
+
+.name{
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.slogan{
+    margin-top: 5px;
+}
+
+.time{
+    margin-top: 7px;
+}
+.shopname button{
+    margin-top: 5px;
+    /* box-shadow: none; */
+    border-radius: 12px;
+    border-color: #D69C52;
+    padding: 10px;
+    background-color: #D69C52;
+    color:#fff;
+}
+
+.shopname button:hover{
+    cursor:pointer;
+}
